@@ -4,7 +4,7 @@
 
 <img width="450" src="Documentation/images/readme/Title_orcuScooter.png"> <img width="150" src="Documentation/images/readme/oshw-logo.svg">
 
-The orcuScooter (short for "[Orcular](#about-the-orcular-project) Scooter") is an open-source kick scooter made from recycled plastics, aluminium and other parts. The main features are:
+The orcuScooter (short for "[Orcular](#%E2%84%B9%EF%B8%8F-about-the-orcular-project) Scooter") is an open-source kick scooter made from recycled plastics, aluminium and other parts. The main features are:
 - Made from recycled plastics ([Precious Plastic](https://preciousplastic.com/) sheets)
 - CNC milled parts
 - 3D printed parts
