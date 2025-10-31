@@ -25,9 +25,7 @@ This project has been designed in [FreeCAD](https://www.freecad.org/). You can f
  
 ## 🛠️ Building instructions
  
-For making and building instructions, see the [documentation](Documentation/Introduction.md)
-
-or go directly to:
+Here is all the information needed to manufacture and build an orcuScooter:
 
 - 🛒 [Shopping list](Documentation/Shopping_list.md)
 - ♻️ [Making sheets from recycled plastics](Documentation/Making_sheets.md)
