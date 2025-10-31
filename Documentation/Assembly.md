@@ -36,3 +36,11 @@ Check that you have all the tools you need:
         <li>Ensure that the angles are flush with the profiles</li>
         <li>Insert the M8 x 65 screw through the bigger hole and the bolt through the smaller hole and make sure everything fits well</li>
 </table>
+
+<table> <tr> <td> <img width="500" src="images/Assembly/009.png"> <br> <img width="500" src="images/Assembly/010.png"> <br> <img width="500" src="images/Assembly/011.png"> <br> <img width="500" src="images/Assembly/012.png"></td> <td> <ul>
+        <li>Insert the 3D-printed (nylon) plain bearing in the largest hole of the cross connection. It should sit tightly inside the hole.</li>
+        <li>Mount the cross connection between the angles, using two 3D printed spacers (18 x 2,5 or 18 x 1,9) and a M8 x 65 screw with washers on each side (washers not shown in the image)</li>
+        <li>Try the 18 x 2,5 spacers first. If they don't fit, try the 18 x 1,9 ones. If none of them fit, edit the file in FreeCAD or in a slicer software and print spacers that fit well. The cross connection part should not wobble</li>
+        <li>Tighten the screw with a M8 nut (not shown in the image)</li>
+        <li>Test the connection. The part should be rotatable.</li>
+</table>
