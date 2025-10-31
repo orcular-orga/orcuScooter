@@ -1,6 +1,6 @@
 # orcuScooter
 
-## Open Source Circular Scooter
+## 🛴♻️ Open Source Circular Scooter
 
 <img width="450" src="Documentation/images/readme/Title_orcuScooter.png"> <img width="150" src="Documentation/images/readme/oshw-logo.svg">
 
@@ -16,14 +16,14 @@ The orcuScooter (short for "[Orcular](#about-the-orcular-project) Scooter") is a
 - Designed in [FreeCAD](https://www.freecad.org/) (open-source software)
   - CAD file accessible in this repository
  
-## Version
+## 🏷️ Version
 Recent version: 1.0 (released October 30th, 2025)
 
 ## 📐 CAD
 
 This project has been designed in [FreeCAD](https://www.freecad.org/). You can find the CAD file [here](CAD)
  
-## Building instructions
+## 🛠️ Building instructions
  
 For making and building instructions, see the [documentation](Documentation/Introduction.md)
 
@@ -36,7 +36,7 @@ or go directly to:
 - 🛠️ [Assembly](Documentation/Assembly.md)
 - 🔼 Modding and upgrades *(coming soon)*
 
-## About the Orcular project
+## ℹ️ About the Orcular project
 The orcuScooter is part of the Orcular project - https://www.orcular.org
 
 "Orcular" stands for **O**pen Source + Ci**rcular** Economy
@@ -46,7 +46,7 @@ The project is about design concepts for locally recyclable products - for a con
 Most components can be recycled into new parts - all within one city.
 Recyclable plastic parts from the laser cutter, 3D printer and CNC mill, supplemented by standard parts.
 
-## License
+## 📜🔓 License
 
 The orcuDispenser hardware design, CAD files, BOM, and relative files are are released under the following open source license:
 
