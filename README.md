@@ -62,6 +62,6 @@ See best practices for [attribution](https://wiki.creativecommons.org/wiki/Best_
 <i> <sub> Open Source Hardware logo, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a> - <a href="https://www.oshwa.org/open-source-hardware-logo/">Source</a> </sub></i>
 </p>
 
-<img width="200" src="Documentation/images/oshw-logo.svg">
+<img width="200" src="Documentation/images/readme/oshw-logo.svg">
 
 
