@@ -12,7 +12,7 @@ The orcuScooter (short for "[Orcular](#%E2%84%B9%EF%B8%8F-about-the-orcular-proj
   - Easy to repair & upgrade
   - Designed for disassembly
   - Most parts recyclebale
-- [Open-source hardware](#license)
+- [Open-source hardware](#-license)
 - Designed in [FreeCAD](https://www.freecad.org/) (open-source software)
   - CAD file accessible in this repository
  
