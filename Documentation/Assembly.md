@@ -26,5 +26,10 @@ Check that you have all the tools you need:
         <li>Make sure to move the 41-mm-profiles to the right position (80 mm for the back part, 71 mm for the front part)</li>
         <li>Make sure that the drilled holes are in the back</li>
         <li>Make sure that everything is parallel and at right angles</li>
-        <li>Insert the M8 x 95 screw through the hole and make sure that it fits well</li>
+        <li>Insert the M8 x 95 screw through the holes and make sure that it fits well</li>
       </ul> </td> </tr> </table>
+
+<table> <tr> <td> <img width="1500" src="images/Assembly/006.png"> </td> <td> <ul>
+        <li>Insert 4x t-nuts (with M5 holes) in the frame (2 on each side)</li>
+        <li>Insert them on the front part of the frame (where the distance of the profile is 71 mm and where are no holes)</li>
+</table>
