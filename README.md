@@ -61,7 +61,7 @@ The orcuScooter documentation, assembly manual, pictures and presentation text o
 See best practices for [attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) and [marking your own work](https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license) with a CC license.
 
 <p align="left">
-<i> <sub> Open Source Hardware logo, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a> - <a href="https://www.oshwa.org/open-source-hardware-logo/">Source</a> </sub></i>
+<i> <sub> Open Source Hardware logo, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a> - <a href="https://oshwa.org/resources/open-source-hardware-logo/">Source</a> </sub></i>
 </p>
 
 <img width="200" src="Documentation/images/readme/oshw-logo.svg">
