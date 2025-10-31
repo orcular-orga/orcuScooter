@@ -48,11 +48,11 @@ Recyclable plastic parts from the laser cutter, 3D printer and CNC mill, supplem
 
 ## 📜🔓 License
 
-The orcuDispenser hardware design, CAD files, BOM, and relative files are are released under the following open source license:
+The orcuScooter hardware design, CAD files, BOM, and relative files are are released under the following open source license:
 
 - [CERN Open Hardware Licence Version 2 Weakly Reciprocal - CERN-OHL-W](https://cern-ohl.web.cern.ch/)
 
-The orcuDispenser documentation, assembly manual, pictures and presentation text of this repository are released under the following license:
+The orcuScooter documentation, assembly manual, pictures and presentation text of this repository are released under the following license:
 
 - [Creative-Commons-Attribution-ShareAlike 4.0 International - CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
 
