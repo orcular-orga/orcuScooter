@@ -16,6 +16,9 @@ The orcuScooter (short for "[Orcular](#about-the-orcular-project) Scooter") is a
 - Designed in [FreeCAD](https://www.freecad.org/) (open-source software)
   - CAD file accessible in this repository
  
+## Version
+Recent version: 1.0 (released October 30th, 2025)
+ 
 ## Building instructions
  
 For making and building instructions, see the [documentation](Documentation/Introduction.md)
