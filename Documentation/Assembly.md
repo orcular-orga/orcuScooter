@@ -29,7 +29,9 @@ Check that you have all the tools you need:
         <li>Insert the M8 x 95 screw through the holes and make sure that it fits well</li>
       </ul> </td> </tr> </table>
 
-<table> <tr> <td> <img width="500" src="images/Assembly/006b.png"> <br> <img width="250" src="images/Assembly/007.png"> <img width="250" src="images/Assembly/008.png"> </td> <td> <ul>
+<table> <tr> <td> <img width="500" src="images/Assembly/006b.png"> <br> <img width="250" src="images/Assembly/007.png"> <br> <img width="250" src="images/Assembly/008.png"> </td> <td> <ul>
         <li>Insert 4x t-nuts (with M5 holes) in the frame (2 on each side)</li>
         <li>Insert them on the front part of the frame (where the distance of the profile is 71 mm and where are no holes)</li>
+        <li>Mount the two angles using 2x M5 x 10 countersunk screws for each part</li>
+        <li>Insert the M8 x 65 screw through the bigger hole and the bolt through the smaller hole and make sure everything fits well</li>
 </table>
