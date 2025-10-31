@@ -2,7 +2,7 @@
 
 ## Part list
 
-Please check the part list in the [BOM section](Documentation/Shopping_list.md)
+Please check the part list in the [BOM section](Shopping_list.md)
 
 ## Tool list
 
