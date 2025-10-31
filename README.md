@@ -2,7 +2,7 @@
 
 ## Open Source Circular Scooter
 
-<img width="450" src="Documentation/images/readme/Title_orcuScooter.png"> <img width="150" src="Documentation/images/oshw-logo.svg">
+<img width="450" src="Documentation/images/readme/Title_orcuScooter.png"> <img width="150" src="Documentation/images/readme/oshw-logo.svg">
 
 The orcuScooter (short for "[Orcular](#about-the-orcular-project) Scooter") is an open-source kick scooter made from recycled plastics, aluminium and other parts. The main features are:
 - Made from recycled plastics ([Precious Plastic](https://preciousplastic.com/) sheets)
