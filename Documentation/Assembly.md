@@ -14,7 +14,7 @@ Check that you have all the tools you need:
 
 ## Assembling the frame
 
-<table> <tr> <td> <img width="1500" src="images/Assembly/001.png"> <br> <img width="1500" src="images/Assembly/004.png"></td> <td> <ul>
+<table> <tr> <td> <img width="1500" src="images/Assembly/001.png"> <br> <img width="1500" src="images/Assembly/004.png"> <br> <img width="1500" src="images/Assembly/005.png"></td> <td> <ul>
         <li>Assamble the following 20x20 t-slot profiles:
           <ul>
             <li>length 509 mm (2 pieces)</li>
@@ -26,4 +26,5 @@ Check that you have all the tools you need:
         <li>Make sure to move the 41-mm-profiles to the right position (80 mm for the back part, 71 mm for the front part)</li>
         <li>Make sure that the drilled holes are in the back</li>
         <li>Make sure that everything is parallel and at right angles</li>
+        <li>Insert the M8 x 95 screw through the hole and make sure that it fits well</li>
       </ul> </td> </tr> </table>
