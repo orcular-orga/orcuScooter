@@ -18,6 +18,10 @@ The orcuScooter (short for "[Orcular](#about-the-orcular-project) Scooter") is a
  
 ## Version
 Recent version: 1.0 (released October 30th, 2025)
+
+## 📐 CAD
+
+This project has been designed in [FreeCAD](https://www.freecad.org/). You can find the CAD file [here](CAD)
  
 ## Building instructions
  
