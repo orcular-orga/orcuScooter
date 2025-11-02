@@ -1,5 +1,11 @@
 # Assembly
 
+## Outline
+
+💡ℹ️ You can find an outline (table of contents) in the upper right corner of this GitHub file and expand it by clicking on the icon. Click on the titles to jump to the corresponding section.
+
+![](images/Assembly/outline.png)
+
 ## Part list
 
 Please check the part list in the [BOM section](Shopping_list.md)
