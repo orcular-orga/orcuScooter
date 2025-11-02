@@ -45,7 +45,7 @@ Check that you have all the tools you need:
 
 <table> <tr> <td> <img width="500" src="images/Assembly/009.png"> <br> <img width="500" src="images/Assembly/010.png"> <br> <img width="500" src="images/Assembly/011.png"> <br> <img width="500" src="images/Assembly/012.png"></td> <td> <ul>
         <li>Insert the 3D-printed (nylon) plain bearing in the largest hole of the cross connection. It should sit tightly inside the hole.</li>
-        <li>Mount the cross connection between the angles, using two 3D printed spacers (18 x 2,5 or 18 x 1,9) and a M8 x 65 screw with washers on each side (washers not shown in the image)</li>
+        <li>Mount the cross connection between the angles, using two 3D-printed spacers (18 x 2,5 or 18 x 1,9) and a M8 x 65 screw with washers on each side (washers not shown in the image)</li>
         <li>Try the 18 x 2,5 spacers first. If they don't fit, try the 18 x 1,9 ones. If none of them fit, edit the file in FreeCAD or in a slicer software and print spacers that fit well. The cross connection part should not wobble</li>
         <li>Tighten the screw with a M8 nut (not shown in the image)</li>
         <li>Test the connection. The part should be rotatable.</li>
@@ -57,6 +57,22 @@ Check that you have all the tools you need:
 
 ## Assembling the front wheel and the fork
 
-<table> <tr> <td> <img width="400" src="images/Assembly/014.png"> <br> <img width="200" src="images/Assembly/015.png"> <br> <img width="150" src="images/Assembly/016.png"> <br> <img width="200" src="images/Assembly/017.png"> </td> <td> <ul>
-        <li>Prepare</li>
+<table> <tr> <td> <img width="400" src="images/Assembly/014.png"> <br> <img width="200" src="images/Assembly/015.png"> <br> <img width="400" src="images/Assembly/016b.png"> </td> <td> <ul>
+        <li>Prepare the following parts
+                <ul>
+                        <li>Fork</li>
+                        <li>Front wheel (diameter 120 mm)</li>
+                        <li>2x 3D-printed spacers (11 x 5 mm)</li>
+                        <li>M8 x 50 screw</li>
+                        <li>M8 nut (only shown in the third image)</li>
+                        <li>2x washers (not shown in the images)</li>
+                </ul>
+        </li>
+        <li>Have a pair of pliers ready that are narrow enough to insert the spacers.</li>
+        <li>Put a washer on the screw</li>
+        <li>Insert the screw through the hole (just a few millimeters beyond the hole)</li>
+        <li>Put one of the spacers on the tip of the screw</li>
+        <li>Hold the wheel and the other spacer (using the pliers) in position, then push the screw all the way through</li>
+        <li>Put the second washer on the end of the screw and fasten it with a M8 nut</li>
+        <li>Test the assembly. Make sure the wheel spins well and that it doesn't wobble.</li>
 </table>
