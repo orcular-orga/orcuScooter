@@ -54,3 +54,9 @@ Check that you have all the tools you need:
 <table> <tr> <td> <img width="2000" src="images/Assembly/013.png"> </td> <td> <ul>
         <li>The frame is now fully assembled. Set it aside and continue with the assembly of the other modules.</li>
 </table>
+
+## Assembling the front wheel and the fork
+
+<table> <tr> <td> <img width="2000" src="images/Assembly/013.png"> </td> <td> <ul>
+        <li>The frame is now fully assembled. Set it aside and continue with the assembly of the other modules.</li>
+</table>
