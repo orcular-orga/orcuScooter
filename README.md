@@ -34,6 +34,22 @@ Here is all the information needed to manufacture and build an orcuScooter:
 - 🛠️ [Assembly](Documentation/Assembly.md)
 - 🔼 Modding and upgrades *(coming soon)*
 
+## 3D view
+
+[<img width="250" src="Documentation/images/readme/click_3D_Online_viewer.png">](https://3dviewer.net/embed.html#model=https://raw.githubusercontent.com/orcular-orga/orcuScooter/main/CAD/Online3Dviewer/orcuScooter_1-0_Online3Dviewer.step$camera=759.29737,-821.80037,1238.35295,82.32449,307.77471,405.61716,0.00000,-0.00000,1.00000,45.00000$projectionmode=perspective$envsettings=fishermans_bastion,off$backgroundcolor=255,255,255,255$defaultcolor=200,200,200$defaultlinecolor=100,100,100$edgesettings=on,0,0,0,84)
+
+- Please be patient and wait about a minute to load the online 3D view
+
+Controls:
+- On computer: Use the left mouse button to rotate, the right mouse button to pan and the mouse wheel to zoom
+- On smartphones: Swipe to rotate, use two fingers to zoom and pan 
+
+- Alternative 3D view with more tools [here](https://3dviewer.net/#model=https://raw.githubusercontent.com/orcular-orga/orcuScooter/main/CAD/Online3Dviewer/orcuScooter_1-0_Online3Dviewer.step)
+  - Click "Set Z axis as up vector" for better display ![a](Documentation/images/readme/Set_Z_axis_as_up_vector.png) 
+  - You can hide/show parts and groups on the left-hand side
+  - For a complete view of the 3D file, download the [CAD file](CAD) and open it in [FreeCAD](https://www.freecad.org/)
+ 
+
 ## ℹ️ About the Orcular project
 The orcuScooter is part of the Orcular project - https://www.orcular.org
 
