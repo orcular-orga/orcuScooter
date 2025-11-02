@@ -14,7 +14,11 @@ Check that you have all the tools you need:
 
 ## Assembling the frame
 
-<table> <tr> <td> <img width="1500" src="images/Assembly/001.png"> <br> <img width="1500" src="images/Assembly/004.png"> <br> <img width="1500" src="images/Assembly/005.png"></td> <td> <ul>
+<table> <tr> <td> <img width="300" src="images/Assembly/001-A.png"> </td> <td> <ul>
+        <li>Insert 2 t-nuts (M5) in one of the t-slot profiles (length 41 mm). You will need it later to assemble the brake.</li>
+</table>
+
+<table> <tr> <td> <img width="1500" src="images/Assembly/001b.png"> <br> <img width="1500" src="images/Assembly/004.png"> <br> <img width="1500" src="images/Assembly/005.png"></td> <td> <ul>
         <li>Assamble the following 20x20 t-slot profiles:
           <ul>
             <li>length 509 mm (2 pieces)</li>
