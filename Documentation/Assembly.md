@@ -57,6 +57,6 @@ Check that you have all the tools you need:
 
 ## Assembling the front wheel and the fork
 
-<table> <tr> <td> <img width="2000" src="images/Assembly/013.png"> </td> <td> <ul>
-        <li>The frame is now fully assembled. Set it aside and continue with the assembly of the other modules.</li>
+<table> <tr> <td> <img width="400" src="images/Assembly/014.png"> <br> <img width="200" src="images/Assembly/015.png"> <br> <img width="150" src="images/Assembly/016.png"> <br> <img width="200" src="images/Assembly/017.png"> </td> <td> <ul>
+        <li>Prepare</li>
 </table>
