@@ -18,7 +18,11 @@ Check that you have all the tools you need:
 - A set of allen keys
 - Pliers
 
-## Assembling the frame
+## Assembly
+
+The assembly instructions are divided into several modules. These do not necessarily have to be assembled in the order listed below. Several people can also work on different modules at the same time. At the end, all modules must be assembled together.
+
+## 1. Frame
 
 <table> <tr> <td> <img width="300" src="images/Assembly/001-A.png"> </td> <td> <ul>
         <li>Insert 2 t-nuts (M5) in one of the t-slot profiles (length 41 mm). You will need them later to assemble the brake.</li>
@@ -61,7 +65,7 @@ Check that you have all the tools you need:
         <li>The frame is now fully assembled. Set it aside and continue with the assembly of the other modules.</li>
 </table>
 
-## Assembling the front wheel and the fork
+## 2. Front wheel and fork
 
 <table> <tr> <td> <img width="400" src="images/Assembly/014.png"> <br> <img width="200" src="images/Assembly/015.png"> <br> <img width="400" src="images/Assembly/016b.png"> </td> <td> <ul>
         <li>Prepare the following parts
