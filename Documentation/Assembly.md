@@ -86,3 +86,29 @@ The assembly instructions are divided into several modules. These do not necessa
         <li>Put the second washer on the end of the screw and fasten it with a M8 nut</li>
         <li>Test the assembly. Make sure the wheel spins well and that it doesn't wobble.</li>
 </table>
+
+## 3. Handlebar (top part)
+
+<table> <tr> <td>
+        <img width="100" src="images/Assembly/018.png"> <br> 
+        <img width="200" src="images/Assembly/019.png"> <br> 
+        <img width="200" src="images/Assembly/020.png"> <br> 
+        <img width="200" src="images/Assembly/021.png">
+</td> <td> <ul>
+        <li>Assemble the two 30x30 profiles together (lenght 364 and 112 mm)</li>
+        <li>Use two 30x30 angles for mounting</li>
+        <li>For each angle, you will need 2x M5 screws and 2x t-nuts</li>
+        <li>Make sure that the short profile on the top is centered</li>
+        <li>If available, insert a cover cap on each angle (not shown in the images, not necessary, only for appearance)</li>
+        <li>Insert two t-nuts (M3) in the front part of the long profile (red rectangles in the image)</li>
+        <li>Mount the 3D-printed case, using two M3 x 12 countersunk screws (screw them into the t-nuts)</li>
+</table>
+
+<table> <tr> <td>
+        <img width="400" src="images/Assembly/022.png"> <br> 
+        <img width="400" src="images/Assembly/023.png">
+</td> <td> <ul>
+        <li>The distance between the top edge of the 3D-printed case and the edge of the angle should be about 14 mm </li>
+        <li>This is important, so the front cover will fit. You can correct the distance later when mounting the front cover.</li>
+        <li>Ensure that the countersunk screws are well hidden below the surface of the cover <br> so that they do not scratch the inner wall of the aluminum square profile later on.</li>
+</table>
