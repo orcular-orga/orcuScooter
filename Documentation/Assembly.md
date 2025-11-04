@@ -162,3 +162,19 @@ The assembly instructions are divided into several modules. These do not necessa
 </td> <td> <ul>
         <li>Check whether you can adjust the height of the handlebars. <br> Loosen the wing screw, adjust the height, and then tighten the wing screw again.</li>
 </table>
+
+<table> <tr> <td>
+        <img width="400" src="images/Assembly/037.png"> <br> 
+        <img width="150" src="images/Assembly/038.png">
+</td> <td> <ul>
+        <li>Insert the 3D-printed (nylon) connector in the bottom of the square tube</li>
+        <li>Slide the axle (with the two holes at the top) into the 3D-printed connector</li>
+        <li>Use two M5 x 50 screws with washers on each side (not shown in the images) to assamble the parts</li>
+        <li>Use two M5 nuts to fasten the screws</li>
+</table>
+
+<table> <tr> <td>
+        <img width="150" src="images/Assembly/039.png"> <br> 
+</td> <td> <ul>
+        <li>The handlebar (top and bottom part) is now fully assembled. Set it aside and continue with the assembly of the other modules.</li>
+</table>
