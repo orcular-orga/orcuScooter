@@ -92,7 +92,7 @@ The assembly instructions are divided into several modules. These do not necessa
 <table> <tr> <td>
         <img width="100" src="images/Assembly/018.png"> <br> 
         <img width="200" src="images/Assembly/019.png"> <br> 
-        <img width="200" src="images/Assembly/020.png"> <br> 
+        <img width="200" src="images/Assembly/020b.png"> <br> 
         <img width="200" src="images/Assembly/021.png">
 </td> <td> <ul>
         <li>Assemble the two 30x30 profiles together (lenght 364 and 112 mm)</li>
@@ -100,7 +100,7 @@ The assembly instructions are divided into several modules. These do not necessa
         <li>For each angle, you will need 2x M5 screws and 2x t-nuts</li>
         <li>Make sure that the short profile on the top is centered</li>
         <li>If available, insert a cover cap on each angle (not shown in the images, not necessary, only for appearance)</li>
-        <li>Insert two t-nuts (M3) in the front part of the long profile (red rectangles in the image)</li>
+        <li>Insert two t-nuts (M3) in the front part of the long profile (red circles ⭕ in the image)</li>
         <li>Mount the 3D-printed case, using two M3 x 12 countersunk screws (screw them into the t-nuts)</li>
 </table>
 
