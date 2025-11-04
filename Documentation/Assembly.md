@@ -132,3 +132,33 @@ The assembly instructions are divided into several modules. These do not necessa
 </td> <td> <ul>
         <li>It might make assembly easier if you insert the upper handlebar first so that it holds the nylon rail in position.</li>
 </table>
+
+<table> <tr> <td>
+        <img width="400" src="images/Assembly/027.png"> <br> 
+        <img width="400" src="images/Assembly/028.png"> <br>
+        <img width="400" src="images/Assembly/029.png"> 
+</td> <td> <ul>
+        <li>Insert a t-nut (M3) inside the t-slot profile of the handlebar (top part) and move it all the way to the top. You will need it later to assamble the front cover.</li>
+        <li>Insert a t-nut (M5) inside the t-slot profile and position it in the lower part of the profile</li>
+</table>
+
+<table> <tr> <td>
+        <img width="150" src="images/Assembly/030.png"> <br> 
+</td> <td> <ul>
+        <li>Insert the handlebar (top part) inside the handlebar (bottom part)</li>
+        <li>It should slide in smoothly, but at the same time it should be relatively tight and not wobble</li>
+        <li>If it doesn't fit right, use a deburrer to smooth the edges of the 3D-printed case slightly and try again</li>
+</table>
+
+<table> <tr> <td>
+        <img width="800" src="images/Assembly/034.png"> <br> 
+</td> <td> <ul>
+        <li>Insert a M5 x 16 wing screw in the top hole of the square tube</li>
+        <li>Screw it into the t-nut</li>
+</table>
+
+<table> <tr> <td>
+        <img width="400" src="images/Assembly/036b.png"> <br> 
+</td> <td> <ul>
+        <li>Check whether you can adjust the height of the handlebars. <br> Loosen the wing screw, adjust the height, and then tighten the wing screw again.</li>
+</table>
