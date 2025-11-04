@@ -128,7 +128,7 @@ The assembly instructions are divided into several modules. These do not necessa
 </table>
 
 <table> <tr> <td>
-        <img width="400" src="images/Assembly/024.png"> <br> 
+        <img width="400" src="images/Assembly/026b.png"> <br> 
 </td> <td> <ul>
-        <li>Insert four M3 nuts in the pockets of the nylon rail. Push them in as far as you can.</li>
+        <li>It might make assembly easier if you insert the upper handlebar first so that it holds the nylon rail in position.</li>
 </table>
