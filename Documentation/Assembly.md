@@ -112,3 +112,23 @@ The assembly instructions are divided into several modules. These do not necessa
         <li>This is important, so the front cover will fit. You can correct the distance later when mounting the front cover.</li>
         <li>Ensure that the countersunk screws are well hidden below the surface of the cover <br> so that they do not scratch the inner wall of the aluminum square profile later on.</li>
 </table>
+
+## 4. Handlebar (bottom part)
+
+<table> <tr> <td>
+        <img width="400" src="images/Assembly/024.png"> <br> 
+        <img width="400" src="images/Assembly/025.png"> <br>
+        <img width="400" src="images/Assembly/026.png"> 
+</td> <td> <ul>
+        <li>Insert four M3 nuts in the pockets of the nylon rail. Push them in as far as you can.</li>
+        <li>Place the nylon rail with the M3 nuts inside the bottom part of the handlebar (40 x 40 mm aluminum square tube, length 373 mm)</li>
+        <li>Align the 4 holes of the nylon rail with the 4 smaller holes in the square tube</li>
+        <li>It might make assembly easier if you lay the square profile flat (as shown in the image)</li>
+        <li>Use four M3 x 12 countersunk screws to attach the nylon rail inside the square tube (only one screw shown in the image)</li>
+</table>
+
+<table> <tr> <td>
+        <img width="400" src="images/Assembly/024.png"> <br> 
+</td> <td> <ul>
+        <li>Insert four M3 nuts in the pockets of the nylon rail. Push them in as far as you can.</li>
+</table>
