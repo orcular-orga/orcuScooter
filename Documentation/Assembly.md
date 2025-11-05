@@ -185,14 +185,14 @@ The assembly instructions are divided into several modules. These do not necessa
         <img width="300" src="images/Assembly/face-to-face-arrangement.png"> <br> 
 </td> <td> <ul>
         <li>Before we start assembling the bearing box, we need to unterstand how the <br> "angular contact ball bearings" (German "Schrägkugellager") work</li>
-        <li>There are two ways to assamble a pair of angular contact ball bearing:</li>
+        <li>There are two ways to assamble a pair of angular contact ball bearings:</li>
                 <ul>
                         <li>face-to-face arrangement (German "O-Anordnung")</li>
                         <li>back-to-back arrangement (German "X-Anordnung")</li>
                 </ul>
         <li>For the orcuScooter, we want to use the face-to-face arrangement (see image)</li>
-        <li>This means that the wide parts of the inner rings of the ball bearings must face outward, <br> while the narrow parts of the inner rings face inward.</li>
-        <li>When the ball bearings are inserted into the housings, the wide parts of the inner rings must be visible.</li>
+        <li>This means that the wide parts of the inner rings of the ball bearings must face outward, <br> while the narrow parts of the inner rings face inward</li>
+        <li>When the ball bearings are inserted into the housings, the wide parts of the inner rings must be visible</li>
 </table>
 
 <table> <tr> <td>
@@ -208,7 +208,7 @@ The assembly instructions are divided into several modules. These do not necessa
 <table> <tr> <td>
         <img width="400" src="images/Assembly/043b.png">
 </td> <td> <ul>
-        <li>Text</li>
+        <li>Note that the bearings do not completely submerge <br> into the housings, but protrude approx. 2 mm.</li>
 </table>
 
 <table> <tr> <td>
@@ -216,11 +216,15 @@ The assembly instructions are divided into several modules. These do not necessa
         <img width="300" src="images/Assembly/048.png"> <br>
         <img width="400" src="images/Assembly/049.png">
 </td> <td> <ul>
-        <li>Text</li>
+        <li>Insert the housings with the bearings inside the aluminum bearing box</li>
+        <li>Make sure that both bearings are facing outward (see image)</li>
+        <li>Align the holes of the housings with the holes of the aluminum bearing box</li>
+        <li>For each bearing box, use two M5 x 50 screws with washers on each side (not shown in the images)</li>
+        <li>Fasten each of the 4 screws with a M5 nut (not shown in the images)</li>
 </table>
 
 <table> <tr> <td>
         <img width="300" src="images/Assembly/050.png"> <br> 
 </td> <td> <ul>
-        <li>Text</li>
+        <li>The bearing box is now fully assembled. Set it aside and continue with the assembly of the other modules.</li>
 </table>
