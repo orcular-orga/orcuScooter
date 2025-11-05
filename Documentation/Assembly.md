@@ -178,3 +178,49 @@ The assembly instructions are divided into several modules. These do not necessa
 </td> <td> <ul>
         <li>The handlebar (top and bottom part) is now fully assembled. Set it aside and continue with the assembly of the other modules.</li>
 </table>
+
+## 5. Bearing box
+
+<table> <tr> <td>
+        <img width="300" src="images/Assembly/face-to-face-arrangement.png"> <br> 
+</td> <td> <ul>
+        <li>Before we start assembling the bearing box, we need to unterstand how the <br> "angular contact ball bearings" (German "Schrägkugellager") work</li>
+        <li>There are two ways to assamble a pair of angular contact ball bearing:</li>
+                <ul>
+                        <li>face-to-face arrangement (German "O-Anordnung")</li>
+                        <li>back-to-back arrangement (German "X-Anordnung")</li>
+                </ul>
+        <li>For the orcuScooter, we want to use the face-to-face arrangement (see image)</li>
+        <li>This means that the wide parts of the inner rings of the ball bearings must face outward, <br> while the narrow parts of the inner rings face inward.</li>
+        <li>When the ball bearings are inserted into the housings, the wide parts of the inner rings must be visible.</li>
+</table>
+
+<table> <tr> <td>
+        <img width="400" src="images/Assembly/041b.png"> <br> 
+        <img width="400" src="images/Assembly/045b.png">
+</td> <td> <ul>
+        <li>Insert the ball bearings in the 3D-printed (nylon) bearing housings</li>
+        <li>As mentioned above, the wide part of the inner ring must face outward</li>
+        <li>The wide part of the inner ring must be visible, while the narrow part <br> is inside the housing (not visible)</li>
+        <li>Assamble both bearing housings with the bearings the same way, <br> so you have two sets of identical bearing housings, each with a bearing inside</li>
+</table>
+
+<table> <tr> <td>
+        <img width="400" src="images/Assembly/043b.png">
+</td> <td> <ul>
+        <li>Text</li>
+</table>
+
+<table> <tr> <td>
+        <img width="500" src="images/Assembly/047b.png"> <br> 
+        <img width="300" src="images/Assembly/048.png"> <br>
+        <img width="400" src="images/Assembly/049.png">
+</td> <td> <ul>
+        <li>Text</li>
+</table>
+
+<table> <tr> <td>
+        <img width="300" src="images/Assembly/050.png"> <br> 
+</td> <td> <ul>
+        <li>Text</li>
+</table>
