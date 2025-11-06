@@ -228,3 +228,38 @@ The assembly instructions are divided into several modules. These do not necessa
 </td> <td> <ul>
         <li>The bearing box is now fully assembled. Set it aside and continue with the assembly of the other modules.</li>
 </table>
+
+## 6. Rear wheel
+
+<table> <tr> <td>
+        <img width="500" src="images/Assembly/051.png"> <br> 
+        <img width="500" src="images/Assembly/053b.png">
+</td> <td> <ul>
+        <li>Before installing the rear wheel, insert four M5 t-nuts <br> in the frame (two on each side)</li>
+        <li>You will need the t-nuts later for assembling the deck.</li>
+        <li>Position the t-nuts as shown in the images. The exact <br> position can be corrected later when assembling the deck</li>
+        <li>Make sure the two t-nuts in the back part are positioned <br> past the hole for the axle screw for the rear wheel</li>
+</table>
+
+<table> <tr> <td>
+        <img width="500" src="images/Assembly/054.png"> <br> 
+        <img width="500" src="images/Assembly/055.png"> <br>
+        <img width="500" src="images/Assembly/056.png">
+</td> <td> <ul>
+        <li>Prepare the following parts
+                <ul>
+                        <li>Rear wheel (diameter 120 mm)</li>
+                        <li>2x 3D-printed spacers (11 x 8,5 mm)</li>
+                        <li>M8 x 95 screw</li>
+                        <li>M8 nut (not shown in the images)</li>
+                        <li>2x washers (not shown in the images)</li>
+                </ul>
+        </li>
+        <li>Have a pair of pliers ready that are narrow enough to insert the spacers.</li>
+        <li>Put a washer on the screw</li>
+        <li>Insert the screw through the hole (just a few millimeters beyond the hole)</li>
+        <li>Put one of the spacers on the tip of the screw</li>
+        <li>Hold the wheel and the other spacer (using the pliers) in position, then push the screw all the way through</li>
+        <li>Put the second washer on the end of the screw and fasten it with a M8 nut</li>
+        <li>Test the assembly. Make sure the wheel spins well and that it doesn't wobble.</li>
+</table>
