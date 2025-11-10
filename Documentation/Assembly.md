@@ -355,11 +355,28 @@ The assembly instructions are divided into several modules. These do not necessa
 ## Test the folding mechanism
 
 <table> <tr> <td>
-        <img width="200" src="images/Assembly/080.png"> <br>
-        <img width="200" src="images/Assembly/081.png">
+        <img width="400" src="images/Assembly/080b.png">
 </td> <td> <ul>
         <li>Loosen the wing screw</li>
         <li>Push the handlebar down as far as it will go</li>
         <li>Tighten the wing screw again</li>
           </ul>
 </table>
+
+<table> <tr> <td>
+        <img width="400" src="images/Assembly/082.png"> <br>
+        <img width="400" src="images/Assembly/083.png">
+</td> <td> <ul>
+        <li>Turn the lever to remove the safety bolt from the bracket</li>
+        <li>Pull the safety bolt out</li>
+        <li>Fold the scooter</li>
+        <li>If everthing worked fine, fold the scooter back again and insert the safety bolt</li>
+        <li>Tunr the lever of the safety bolt back into the bracket</li>
+          </ul>
+</table>
+
+## 🛴 Testing time!
+
+The scooter is now ready for a first ride. Hop on, cruise to your heart's content and make sure everything is stable and sits right. If the scooter falls apart and you crash, there might be something wrong. Perhaps now is a good time to fix it, before you continue with the assembly.
+
+But if the scooter has passed the test drive successfully: Well done! Continue with the instructions below.
