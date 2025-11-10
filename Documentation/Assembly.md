@@ -322,7 +322,7 @@ The assembly instructions are divided into several modules. These do not necessa
 </td> <td> <ul>
         <li>Assamble the safety bolt</li>
                   <ul>
-                <li>Push the bolt (6 x 50 )through the 3D-printed (PLA) lever part</li>
+                <li>Push the bolt (6 x 50 ) through the 3D-printed (PLA) lever part</li>
                 <li>Screw the 3D-printed (PLA) cap on the lever part</li>
           </ul>
 </table>
