@@ -272,9 +272,42 @@ The assembly instructions are divided into several modules. These do not necessa
 </td> <td> <ul>
         <li>Prepare the following modules and parts:</li>
           <ul>
-                <li>assambled handle bar (bottom part)</li>
+                <li>assambled handle bar</li>
                 <li>assambled bearing box</li>
                 <li>3D-printed spacer (nylon) (17,4 x 6,5)</li>
           </ul>
         </li>
+</table>
+
+<table> <tr> <td>
+        <img width="500" src="images/Assembly/064b.png">
+</td> <td> <ul>
+        <li>Put the spacer on the tip of the axle</li>
+        <li>Push the axle with the spacer through the hole in the bearing box</li>
+</table>
+
+<table> <tr> <td>
+        <img width="400" src="images/Assembly/065.png"> <br>
+        <img width="200" src="images/Assembly/066.png">
+</td> <td> <ul>
+        <li>Prepare the following modules and parts:</li>
+          <ul>
+                <li>assambled handle bar with the bearing box</li>
+                <li>assambled fork with the front wheel</li>
+                <li>3D-printed adapter (nylon)</li>
+                <li>3D-printed spacer (nylon) (17,4 x 10)</li>
+                <li>M5 x 50 screw</li>
+                <li>2x washers</li>
+                <li>M5 nut</li>
+          </ul>
+        <li>(1) Put the adapter inside the fork</li>
+        <li>(2) Put the spacer on the tip of the axle, then push it <br> through the hole in the fork</li>
+        <li>(3) Put a washer on the screw, then push the screw <br> through the hole</li>
+        <li>Add another washer, then fasten the screw <br> with a M5 nut</li>
+</table>
+
+<table> <tr> <td>
+        <img width="100" src="images/Assembly/067.png">
+</td> <td> <ul>
+        <li>The handle bar with the bearing box and the front wheel fork is now fully assembled. Continue with the final assembly.</li>
 </table>
