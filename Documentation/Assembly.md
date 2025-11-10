@@ -351,3 +351,15 @@ The assembly instructions are divided into several modules. These do not necessa
         <li>Turn the lever on the bolt into the clamp. This prevents the bolt from slipping out while riding the scooter.</li>
           </ul>
 </table>
+
+## Test the folding mechanism
+
+<table> <tr> <td>
+        <img width="200" src="images/Assembly/080.png"> <br>
+        <img width="200" src="images/Assembly/081.png">
+</td> <td> <ul>
+        <li>Loosen the wing screw</li>
+        <li>Push the handlebar down as far as it will go</li>
+        <li>Tighten the wing screw again</li>
+          </ul>
+</table>
