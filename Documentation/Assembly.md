@@ -51,6 +51,7 @@ The assembly instructions are divided into several modules. These do not necessa
         <li>Mount the two angles using 2x M5 x 10 countersunk screws for each part</li>
         <li>Ensure that the angles are flush with the profiles</li>
         <li>Insert the M8 x 65 screw through the bigger hole and the bolt through the smaller hole and make sure everything fits well</li>
+        <li>Do not fasten the screw and the bolt yet. If the screw and the bolt fit, remove them again. These parts will be mounted later</li>
 </table>
 
 <table> <tr> <td> <img width="500" src="images/Assembly/009.png"> <br> <img width="500" src="images/Assembly/010.png"> <br> <img width="500" src="images/Assembly/011.png"> <br> <img width="500" src="images/Assembly/012.png"></td> <td> <ul>
