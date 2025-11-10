@@ -264,3 +264,17 @@ The assembly instructions are divided into several modules. These do not necessa
         <li>Put the second washer on the end of the screw and fasten it with a M8 nut</li>
         <li>Test the assembly. Make sure the wheel spins well and that it doesn't wobble.</li>
 </table>
+
+## Assamble handle bar, bearing box and fork with front wheel
+
+<table> <tr> <td>
+        <img width="200" src="images/Assembly/062.png">
+</td> <td> <ul>
+        <li>Prepare the following modules and parts:</li>
+          <ul>
+                <li>assambled handle bar (bottom part)</li>
+                <li>assambled bearing box</li>
+                <li>3D-printed spacer (nylon) (17,4 x 6,5)</li>
+          </ul>
+        </li>
+</table>
