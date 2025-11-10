@@ -1,0 +1,22 @@
+version = 1
+SPDX-PackageName = "orcuScooter"
+SPDX-PackageSupplier = "Oskar Lidtke <hello@orcular.org>"
+SPDX-PackageDownloadLocation = "https://github.com/orcular-orga/orcuScooter"
+
+[[annotations]]
+path = ["Documentation/**", "README.md"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = ["", "Oskar Lidtke <hello@orcular.org>"]
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = ["3D_printing/**", "CAD/**", "CNC_milling/**"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = ["", "Oskar Lidtke <hello@orcular.org>"]
+SPDX-License-Identifier = "CERN-OHL-W-2.0"
+
+[[annotations]]
+path = ["LICENSE", "LICENSE_CERN_OHL_W_V2"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "CC0-1.0"
