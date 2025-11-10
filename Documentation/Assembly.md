@@ -311,3 +311,43 @@ The assembly instructions are divided into several modules. These do not necessa
 </td> <td> <ul>
         <li>The handle bar with the bearing box and the front wheel fork is now fully assembled. Continue with the final assembly.</li>
 </table>
+
+## Add the safety bolt for the folding mechanism
+
+<table> <tr> <td>
+        <img width="300" src="images/Assembly/070.png"> <br>
+        <img width="300" src="images/Assembly/071.png"> <br>
+        <img width="300" src="images/Assembly/072.png"> <br>
+        <img width="300" src="images/Assembly/073.png">
+</td> <td> <ul>
+        <li>Assamble the safety bolt</li>
+                  <ul>
+                <li>Push the bolt (6 x 50 )through the 3D-printed (PLA) lever part</li>
+                <li>Screw the 3D-printed (PLA) cap on the lever part</li>
+          </ul>
+</table>
+
+<table> <tr> <td>
+        <img width="300" src="images/Assembly/074.png"> <br>
+        <img width="300" src="images/Assembly/075.png">
+</td> <td> <ul>
+        <li>Push the 3D-printed (PLA) bracket on the angle of the frame</li>
+          </ul>
+</table>
+
+<table> <tr> <td>
+        <img width="300" src="images/Assembly/076.png"> <br>
+        <img width="300" src="images/Assembly/077.png">
+</td> <td> <ul>
+        <li>Align the cross connection so that the holes are aligned</li>
+        <li>Push the bolt with the 3D-printed parts through all the holes</li>
+          </ul>
+</table>
+
+<table> <tr> <td>
+        <img width="300" src="images/Assembly/078b.png"> <br>
+        <img width="300" src="images/Assembly/079.png">
+</td> <td> <ul>
+        <li>Turn the lever on the bolt into the clamp. This prevents the bolt from slipping out while riding the scooter.</li>
+          </ul>
+</table>
