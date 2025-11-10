@@ -371,7 +371,7 @@ The assembly instructions are divided into several modules. These do not necessa
         <li>Pull the safety bolt out</li>
         <li>Fold the scooter</li>
         <li>If everthing worked fine, fold the scooter back again and insert the safety bolt</li>
-        <li>Tunr the lever of the safety bolt back into the bracket</li>
+        <li>Turn the lever of the safety bolt back into the bracket</li>
           </ul>
 </table>
 
