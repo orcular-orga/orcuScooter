@@ -390,3 +390,55 @@ The assembly instructions are divided into several modules. These do not necessa
 The scooter is now ready for a first ride. Hop on, cruise to your heart's content and make sure everything is stable and sits right. If the scooter falls apart and you crash, there might be something wrong. Perhaps now is a good time to fix it, before you continue with the assembly.
 
 But if the scooter has passed the test ride successfully: Well done! Continue with the instructions below.
+
+## Brake
+
+<table> <tr> <td>
+        <img width="400" src="images/Assembly/092.png"> <br>
+        <img width="400" src="images/Assembly/089.png"> <br>
+        <img width="400" src="images/Assembly/090.png">
+</td> <td> <ul>
+        <li>Push the brake block into the brake part</li>
+        <li>Note that the brake block has one slanted edge <br> and one straight edge. <br> Ensure correct alignment — the brake part also has these edges.</li>
+          </ul>
+</table>
+
+<table> <tr> <td>
+        <img width="400" src="images/Assembly/093.png">
+</td> <td> <ul>
+        <li>If the brake block does not hold, you can use a rubber band (shown in yellow in the picture)</li>
+        <li>If necessary, the rubber band must be wrapped twice</li>
+          </ul>
+</table>
+
+<table> <tr> <td>
+        <img width="300" src="images/Assembly/094.png"> <br>
+        <img width="300" src="images/Assembly/095.png"> <br>
+        <img width="300" src="images/Assembly/096.png">
+</td> <td> <ul>
+        <li>Place the brake cover on the brake</li>
+        <li>Use an M3 x 12 countersunk screw and an M3 nut to attach it</li>
+          </ul>
+</table>
+
+<table> <tr> <td>
+        <img width="300" src="images/Assembly/097.png"> <br>
+        <img width="300" src="images/Assembly/098.png"> <br>
+        <img width="300" src="images/Assembly/099.png">
+</td> <td> <ul>
+        <li>Align the t-nuts in the frame with the holes of the brake</li>
+        <li>Use two M5 x 10 countersunk screws to attach the brake to the t-nuts in the frame</li>
+        <li>Make sure that the brake is centered</li>
+          </ul>
+</table>
+
+
+<table> <tr> <td>
+        <img width="300" src="images/Assembly/100.png">
+</td> <td> <ul>
+        <li>Take a close look at the brake from the side. Make sure there is <br> a little gap between the brake block and the wheel</li>
+        <li>Test: Spin the wheel quickly with your hand, then press the brake</li>
+        <li>Take the scooter for another test ride. Don't ride too fast. <br> Step on the brake and test whether it works properly.</li>
+        <li>⚠️ Careful! The brake could be stronger than you think. <br> If you ride too fast and step on the brake, you could come to a <br> really sudden stop, causing you to flip over the front.</li>
+          </ul>
+</table>
