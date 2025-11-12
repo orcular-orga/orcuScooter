@@ -56,9 +56,9 @@ The assembly instructions are divided into several modules. These do not necessa
 
 <table> <tr> <td> <img width="500" src="images/Assembly/009.png"> <br> <img width="500" src="images/Assembly/010.png"> <br> <img width="500" src="images/Assembly/011.png"> <br> <img width="500" src="images/Assembly/012.png"></td> <td> <ul>
         <li>Insert the 3D-printed (nylon) plain bearing in the largest hole of the cross connection. It should sit tightly inside the hole.</li>
-        <li>Mount the cross connection between the angles, using two 3D-printed spacers (18 x 2,5 or 18 x 1,9) and a M8 x 65 screw with washers on each side (washers not shown in the image)</li>
+        <li>Mount the cross connection between the angles, using two 3D-printed spacers (18 x 2,5 or 18 x 1,9) and an M8 x 65 screw with washers on each side (washers not shown in the image)</li>
         <li>Try the 18 x 2,5 spacers first. If they don't fit, try the 18 x 1,9 ones. If none of them fit, edit the file in FreeCAD or in a slicer software and print spacers that fit well. The cross connection part should not wobble</li>
-        <li>Tighten the screw with a M8 nut (not shown in the image)</li>
+        <li>Tighten the screw with an M8 nut (not shown in the image)</li>
         <li>Test the connection. The part should be rotatable.</li>
 </table>
 
@@ -84,7 +84,7 @@ The assembly instructions are divided into several modules. These do not necessa
         <li>Insert the screw through the hole (just a few millimeters beyond the hole)</li>
         <li>Put one of the spacers on the tip of the screw</li>
         <li>Hold the wheel and the other spacer (using the pliers) in position, then push the screw all the way through</li>
-        <li>Put the second washer on the end of the screw and fasten it with a M8 nut</li>
+        <li>Put the second washer on the end of the screw and fasten it with an M8 nut</li>
         <li>Test the assembly. Make sure the wheel spins well and that it doesn't wobble.</li>
 </table>
 
@@ -154,7 +154,7 @@ The assembly instructions are divided into several modules. These do not necessa
 <table> <tr> <td>
         <img width="800" src="images/Assembly/034.png"> <br> 
 </td> <td> <ul>
-        <li>Insert a M5 x 16 wing screw in the top hole of the square tube</li>
+        <li>Insert an M5 x 16 wing screw in the top hole of the square tube</li>
         <li>Screw it into the t-nut</li>
 </table>
 
@@ -221,7 +221,7 @@ The assembly instructions are divided into several modules. These do not necessa
         <li>Make sure that both bearings are facing outward (see image)</li>
         <li>Align the holes of the housings with the holes of the aluminum bearing box</li>
         <li>For each bearing box, use two M5 x 50 screws with washers on each side (not shown in the images)</li>
-        <li>Fasten each of the 4 screws with a M5 nut (not shown in the images)</li>
+        <li>Fasten each of the 4 screws with an M5 nut (not shown in the images)</li>
 </table>
 
 <table> <tr> <td>
@@ -261,11 +261,11 @@ The assembly instructions are divided into several modules. These do not necessa
         <li>Insert the screw through the hole (just a few millimeters beyond the hole)</li>
         <li>Put one of the spacers on the tip of the screw</li>
         <li>Hold the wheel and the other spacer (using the pliers) in position, then push the screw all the way through</li>
-        <li>Put the second washer on the end of the screw and fasten it with a M8 nut</li>
+        <li>Put the second washer on the end of the screw and fasten it with an M8 nut</li>
         <li>Test the assembly. Make sure the wheel spins well and that it doesn't wobble.</li>
 </table>
 
-## Assamble handle bar, bearing box and fork with front wheel
+## Assembling the complete handlebar
 
 <table> <tr> <td>
         <img width="200" src="images/Assembly/062.png">
@@ -283,7 +283,7 @@ The assembly instructions are divided into several modules. These do not necessa
         <img width="500" src="images/Assembly/064b.png">
 </td> <td> <ul>
         <li>Put the spacer on the tip of the axle</li>
-        <li>Push the axle with the spacer through the hole in the bearing box</li>
+        <li>Push the axle with the spacer through the all the holes and both bearings in the bearing box</li>
 </table>
 
 <table> <tr> <td>
@@ -303,7 +303,7 @@ The assembly instructions are divided into several modules. These do not necessa
         <li>(1) Put the adapter inside the fork</li>
         <li>(2) Put the spacer on the tip of the axle, then push it <br> through the hole in the fork</li>
         <li>(3) Put a washer on the screw, then push the screw <br> through the hole</li>
-        <li>Add another washer, then fasten the screw <br> with a M5 nut</li>
+        <li>Add another washer, then fasten the screw <br> with an M5 nut</li>
 </table>
 
 <table> <tr> <td>
@@ -339,7 +339,7 @@ The assembly instructions are divided into several modules. These do not necessa
         <img width="300" src="images/Assembly/076.png"> <br>
         <img width="300" src="images/Assembly/077.png">
 </td> <td> <ul>
-        <li>Align the cross connection so that the holes are aligned</li>
+        <li>Turn and position the cross connection so that the holes are aligned</li>
         <li>Push the bolt with the 3D-printed parts through all the holes</li>
           </ul>
 </table>
@@ -348,7 +348,7 @@ The assembly instructions are divided into several modules. These do not necessa
         <img width="300" src="images/Assembly/078b.png"> <br>
         <img width="300" src="images/Assembly/079.png">
 </td> <td> <ul>
-        <li>Turn the lever on the bolt into the clamp. This prevents the bolt from slipping out while riding the scooter.</li>
+        <li>Turn the lever on the bolt into the bracket. This prevents the bolt from slipping out while riding the scooter.</li>
           </ul>
 </table>
 
@@ -379,4 +379,4 @@ The assembly instructions are divided into several modules. These do not necessa
 
 The scooter is now ready for a first ride. Hop on, cruise to your heart's content and make sure everything is stable and sits right. If the scooter falls apart and you crash, there might be something wrong. Perhaps now is a good time to fix it, before you continue with the assembly.
 
-But if the scooter has passed the test drive successfully: Well done! Continue with the instructions below.
+But if the scooter has passed the test ride successfully: Well done! Continue with the instructions below.
