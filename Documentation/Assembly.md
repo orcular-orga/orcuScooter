@@ -287,6 +287,16 @@ The assembly instructions are divided into several modules. These do not necessa
 </table>
 
 <table> <tr> <td>
+        <img width="250" src="images/Assembly/086b.png"> <br>
+        <img width="600" src="images/Assembly/088c.png">
+</td> <td> <ul>
+        <li>For the next step, it is important that the handlebar <br> and the fork (with the front wheel) are correctly <br> aligned with each other</li>
+        <li>Rotate the upper part of the handlebar so that <br> the 3D-printed cover faces forward (note the <br> orientation of the bearing box at the bottom)</li>
+        <li>The fork must now be installed so that the axle <br> with the front wheel is at the front (and not <br> at the rear, see images)</li>
+        <li>This is important for stability while riding the scooter</li>
+</table>
+
+<table> <tr> <td>
         <img width="400" src="images/Assembly/065.png"> <br>
         <img width="200" src="images/Assembly/066.png">
 </td> <td> <ul>
