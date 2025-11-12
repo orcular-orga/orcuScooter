@@ -442,3 +442,44 @@ But if the scooter has passed the test ride successfully: Well done! Continue wi
         <li>⚠️ Careful! The brake could be stronger than you think. <br> If you ride too fast and step on the brake, you could come to a <br> really sudden stop, causing you to flip over the front.</li>
           </ul>
 </table>
+
+## Handles
+
+<table> <tr> <td>
+        <img width="400" src="images/Assembly/101.png"> <br>
+        <img width="400" src="images/Assembly/102.png">
+</td> <td> <ul>
+        <li>Push the threaded rod (M5 x 123) through the hole in the handle bar</li>
+        <li>Make sure the threaded rod is centered</li>
+          </ul>
+</table>
+
+<table> <tr> <td>
+        <img width="300" src="images/Assembly/103.png"> <br>
+        <img width="300" src="images/Assembly/104.png">
+</td> <td> <ul>
+        <li>Put a 3D-printed (PLA) handle adapter on the tip of the threaded rod</li>
+        <li>Put an M5 nut into the pocket</li>
+        <li>Screw the adapter together with the M5 nut on the threaded rod</li>
+        <li>Do the same on the other side</li>
+        <li>Tighten both adapters with the nuts</li>
+          </ul>
+</table>
+
+<table> <tr> <td>
+        <img width="300" src="images/Assembly/105.png"> <br>
+        <img width="300" src="images/Assembly/106.png">
+</td> <td> <ul>
+        <li>Push a handle into the adapter</li>
+        <li>Fasten it with an M5 x 45 screw and an M5 nut</li>
+        <li>Do the same with the second handle on the other side</li>
+          </ul>
+</table>
+
+<table> <tr> <td>
+        <img width="400" src="images/Assembly/107.png">
+</td> <td> <ul>
+        <li>Both handles should be attached to the handle bar</li>
+        <li>Try turning them and make sure they are tight</li>
+          </ul>
+</table>
