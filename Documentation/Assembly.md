@@ -509,3 +509,17 @@ But if the scooter has passed the test ride successfully: Well done! Continue wi
         <li>Screw it into the M3 T-slot nut</li>
           </ul>
 </table>
+
+## 10. Deck
+
+<table> <tr> <td>
+        <img width="700" src="images/Assembly/115.png"> <br>
+        <img width="500" src="images/Assembly/116.png"> <br>
+        <img width="500" src="images/Assembly/117.png">
+</td> <td> <ul>
+        <li>Make sure that the M5 T-slot nuts are aligned as shown in the image</li>
+        <li>Place the deck on the frame</li>
+        <li>Use four M5 x 10 countersunk screws to mount the deck to the frame</li>
+        <li>Screw them into the T-slot nuts</li>
+          </ul>
+</table>
