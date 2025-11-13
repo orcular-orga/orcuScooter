@@ -391,7 +391,7 @@ The scooter is now ready for a first ride. Hop on, cruise to your heart's conten
 
 But if the scooter has passed the test ride successfully: Well done! Continue with the instructions below.
 
-## Brake
+## 7. Brake
 
 <table> <tr> <td>
         <img width="400" src="images/Assembly/092.png"> <br>
@@ -443,7 +443,7 @@ But if the scooter has passed the test ride successfully: Well done! Continue wi
           </ul>
 </table>
 
-## Handles
+## 8. Handles
 
 <table> <tr> <td>
         <img width="400" src="images/Assembly/101.png"> <br>
@@ -481,5 +481,31 @@ But if the scooter has passed the test ride successfully: Well done! Continue wi
 </td> <td> <ul>
         <li>Both handles should be attached to the handle bar</li>
         <li>Try turning them and make sure they are tight</li>
+          </ul>
+</table>
+
+## 9. Front cover
+
+<table> <tr> <td>
+        <img width="500" src="images/Assembly/112.png">
+</td> <td> <ul>
+        <li>Make sure that the M3 T-slot nut on the back of the handlebar is aligned as shown in the image</li>
+          </ul>
+</table>
+
+<table> <tr> <td>
+        <img width="500" src="images/Assembly/109b.png"> <br>
+        <img width="500" src="images/Assembly/111b.png">
+</td> <td> <ul>
+        <li>Push the 3D-printed logo part into the <br> front cover part. Insert it from the inside.</li>
+        <li>Push the front cover together with the <br> logo part onto the handlebar from above</li>
+          </ul>
+</table>
+
+<table> <tr> <td>
+        <img width="700" src="images/Assembly/114b.png">
+</td> <td> <ul>
+        <li>Use an M3 x 12 countersunk screw <br> to attach the cover part to the handlebar</li>
+        <li>Screw it into the M3 T-slot nut</li>
           </ul>
 </table>
