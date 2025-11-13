@@ -523,3 +523,15 @@ But if the scooter has passed the test ride successfully: Well done! Continue wi
         <li>Screw them into the T-slot nuts</li>
           </ul>
 </table>
+
+## 🛴 Done!
+
+<table> <tr> <td>
+        <img width="300" src="images/Assembly/118.png">
+</td> <td> <ul>
+        <li>That's it! The orcuScooter is fully assembled</li>
+        <li>Take another test drive and make sure everything works fine</li>
+        <li>More upgrades and mods may follow in the future - stay tuned!</li>
+        <li>Congrats on finishing the scooter, have fun and enjoy!</li>
+          </ul>
+</table>
