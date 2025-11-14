@@ -530,7 +530,7 @@ But if the scooter has passed the test ride successfully: Well done! Continue wi
         <img width="300" src="images/Assembly/118.png">
 </td> <td> <ul>
         <li>That's it! The orcuScooter is fully assembled</li>
-        <li>Take another test drive and make sure everything is working fine</li>
+        <li>Take another test ride and make sure everything is working fine</li>
         <li>More upgrades and mods may follow in the future - stay tuned!</li>
         <li>Congrats on finishing the scooter, have fun and enjoy!</li>
           </ul>
